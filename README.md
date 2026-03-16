@@ -36,8 +36,8 @@ We utilize a robust and modern tech stack to ensure peak performance:
 
 ## 📊 Sector Activity & Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=tokyonight" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iwdevteam26&show_icons=true&theme=tokyonight" alt="Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwdevteam26&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
 </p>
 
 ---
@@ -54,7 +54,7 @@ Our 2026 sector is powered by a dedicated group of innovators:
 ## 🤝 Connect & Collaborate
 We are always open to collaboration, open-source contributions, and innovative ideas.
 
-* **📧 Email:** [team@workdev.com]
+* **📧 Email:** [sales@includework.com]
 * **💼 LinkedIn:** [linkedin.com/company/workdevteam]
 * **🌐 Website:** [www.workdevteam2026.com]
 
