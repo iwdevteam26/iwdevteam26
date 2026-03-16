@@ -56,7 +56,7 @@ We are always open to collaboration, open-source contributions, and innovative i
 
 * **📧 Email:** [sales@includework.com]
 * **💼 LinkedIn:** [linkedin.com/company/workdevteam]
-* **🌐 Website:** [www.workdevteam2026.com]
+* **🌐 Website:** [www.devteam.com]
 
 ---
 <p align="center">
