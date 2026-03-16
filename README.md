@@ -26,11 +26,11 @@ We utilize a robust and modern tech stack to ensure peak performance:
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | TypeScript, Python 3.12+, Go, Rust |
+| **Languages** | TypeScript, Python 3.12+, JavaScript |
 | **Frontend** | React 19, Next.js, Tailwind CSS, Framer Motion |
-| **Backend** | Node.js, FastAPI, NestJS, GraphQL |
+| **Backend** | Node.js, FastAPI, NestJS, GraphQL, RestAPI |
 | **Data** | PostgreSQL, MongoDB, Pinecone (Vector DB), Redis |
-| **DevOps** | Docker, Kubernetes, Terraform, AWS |
+| **DevOps** | Docker, VPS, AWS |
 
 ---
 
