@@ -1,7 +1,7 @@
 # 🚀 Work Dev Team 2026 | New Development Sector
 
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Work%20Dev%20Team%202026&fontSize=60](https://misooma-weebii.vercel.app/Group_9.webp)" alt="Team Banner" />
+  <img src="https://misooma-weebii.vercel.app/Group_9.webp" alt="Team Banner" />
 </p>
 
 ## 🌐 Overview
