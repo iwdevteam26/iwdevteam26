@@ -33,15 +33,6 @@ We utilize a robust and modern tech stack to ensure peak performance:
 | **DevOps** | Docker, VPS, AWS |
 
 
-## 👥 Meet the Core Team
-Our 2026 sector is powered by a dedicated group of innovators:
-
-- **Engineering Leads:** [Name/Link]
-- **Product Architects:** [Name/Link]
-- **UX Specialists:** [Name/Link]
-
----
-
 ## 🤝 Connect & Collaborate
 We are always open to collaboration, open-source contributions, and innovative ideas.
 
