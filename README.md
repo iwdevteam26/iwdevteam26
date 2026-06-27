@@ -32,15 +32,6 @@ We utilize a robust and modern tech stack to ensure peak performance:
 | **Data** | PostgreSQL, MongoDB, Pinecone (Vector DB), Redis |
 | **DevOps** | Docker, VPS, AWS |
 
----
-
-## 📊 Sector Activity & Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iwdevteam26&show_icons=true&theme=tokyonight" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwdevteam26&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
-</p>
-
----
 
 ## 👥 Meet the Core Team
 Our 2026 sector is powered by a dedicated group of innovators:
